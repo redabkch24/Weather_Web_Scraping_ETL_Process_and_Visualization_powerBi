@@ -1,0 +1,541 @@
+Date,High temp,Low temp,Precip,Weather Condition,City
+10/31,21°,/14°,"
+
+		7%
+	",Mostly sunny and nice,Al-hoceima
+11/1,22°,/15°,"
+
+		6%
+	",Thickening clouds,Al-hoceima
+11/2,22°,/15°,"
+
+		9%
+	",Pleasant with sunshine and a few clouds,Al-hoceima
+11/3,23°,/13°,"
+
+		1%
+	","Some sun, then turning cloudy",Al-hoceima
+11/4,23°,/13°,"
+
+		0%
+	",Pleasant with plenty of sunshine,Al-hoceima
+11/5,23°,/13°,"
+
+		1%
+	",Mostly sunny and pleasant,Al-hoceima
+11/6,23°,/13°,"
+
+		25%
+	","Clouds to start, then sunshine returns",Al-hoceima
+11/7,20°,/14°,"
+
+		3%
+	",Sunny to partly cloudy,Al-hoceima
+11/8,21°,/13°,"
+
+		5%
+	",Mostly sunny,Al-hoceima
+11/9,19°,/11°,"
+
+		2%
+	",Mostly sunny,Al-hoceima
+11/10,19°,/12°,"
+
+		2%
+	",Partly sunny,Al-hoceima
+11/11,19°,/13°,"
+
+		0%
+	",Mostly sunny,Al-hoceima
+11/12,20°,/12°,"
+
+		1%
+	",Plenty of sun,Al-hoceima
+11/13,19°,/10°,"
+
+		20%
+	",Partial sunshine,Al-hoceima
+11/14,20°,/10°,"
+
+		10%
+	",Mostly sunny,Al-hoceima
+11/15,19°,/10°,"
+
+		5%
+	",Plenty of sunshine,Al-hoceima
+11/16,19°,/11°,"
+
+		5%
+	",Plenty of sunshine,Al-hoceima
+11/17,20°,/11°,"
+
+		25%
+	",Partly sunny,Al-hoceima
+11/18,19°,/10°,"
+
+		59%
+	","A passing shower in the morning; otherwise, sunshine and a few clouds",Al-hoceima
+11/19,19°,/12°,"
+
+		55%
+	",Clouds and sun with a passing shower in the afternoon,Al-hoceima
+11/20,19°,/11°,"
+
+		20%
+	",Partial sunshine,Al-hoceima
+11/21,20°,/10°,"
+
+		10%
+	",Mostly sunny,Al-hoceima
+11/22,19°,/10°,"
+
+		60%
+	","A shower in the morning; otherwise, clouds to start, then sunshine returns",Al-hoceima
+11/23,18°,/9°,"
+
+		25%
+	",Intervals of clouds and sunshine,Al-hoceima
+11/24,18°,/9°,"
+
+		5%
+	",Plenty of sun,Al-hoceima
+11/25,20°,/12°,"
+
+		25%
+	",Cloudy,Al-hoceima
+11/26,18°,/10°,"
+
+		25%
+	",Mostly sunny,Al-hoceima
+11/27,18°,/11°,"
+
+		25%
+	",Times of clouds and sun,Al-hoceima
+11/28,17°,/10°,"
+
+		25%
+	",Cloudy,Al-hoceima
+11/29,18°,/12°,"
+
+		59%
+	",Periods of rain,Al-hoceima
+11/30,20°,/12°,"
+
+		58%
+	",A blend of sun and clouds with a passing shower in the afternoon,Al-hoceima
+12/1,17°,/12°,"
+
+		56%
+	",Cloudy; a couple of showers in the morning followed by a little rain in the afternoon,Al-hoceima
+12/2,17°,/10°,"
+
+		25%
+	",Cloudy,Al-hoceima
+12/3,17°,/9°,"
+
+		25%
+	",A thick cloud cover,Al-hoceima
+12/4,17°,/12°,"
+
+		57%
+	","A bit of rain in the morning; otherwise, remaining cloudy",Al-hoceima
+12/5,19°,/11°,"
+
+		25%
+	",Times of clouds and sun,Al-hoceima
+12/6,16°,/8°,"
+
+		59%
+	",Partly sunny with a passing shower in the afternoon,Al-hoceima
+12/7,16°,/8°,"
+
+		10%
+	",Mostly sunny,Al-hoceima
+12/8,16°,/8°,"
+
+		5%
+	",Plenty of sunshine,Al-hoceima
+12/9,16°,/9°,"
+
+		20%
+	",Mostly sunny,Al-hoceima
+12/10,16°,/9°,"
+
+		55%
+	",Cloudy; a morning shower in spots followed by a little rain in the afternoon,Al-hoceima
+12/11,16°,/8°,"
+
+		57%
+	",Considerable clouds with a couple of showers and a thunderstorm,Al-hoceima
+12/12,15°,/8°,"
+
+		65%
+	","A couple of showers in the morning; otherwise, intervals of clouds and sunshine",Al-hoceima
+12/13,18°,/10°,"
+
+		3%
+	",Sunshine and a few clouds,Al-hoceima
+12/14,16°,/11°,"
+
+		59%
+	",Periods of rain,Al-hoceima
+10/31,23°,/16°,"
+
+		97%
+	",Periods of rain,Tanger
+11/1,22°,/16°,"
+
+		25%
+	",Warmer; considerable clouds in the morning followed by sun and areas of high clouds,Tanger
+11/2,23°,/18°,"
+
+		17%
+	",Mostly sunny and nice,Tanger
+11/3,24°,/16°,"
+
+		1%
+	",Breezy with considerable cloudiness,Tanger
+11/4,24°,/17°,"
+
+		0%
+	",Sunny to partly cloudy and pleasant,Tanger
+11/5,24°,/17°,"
+
+		0%
+	","Mostly sunny, breezy and pleasant",Tanger
+11/6,24°,/18°,"
+
+		0%
+	",Partly sunny,Tanger
+11/7,24°,/17°,"
+
+		0%
+	",Partly sunny and warm,Tanger
+11/8,24°,/18°,"
+
+		0%
+	",Windy with plenty of sunshine,Tanger
+11/9,24°,/17°,"
+
+		0%
+	",Mostly cloudy in the morning; sun through high clouds in the afternoon,Tanger
+11/10,23°,/16°,"
+
+		1%
+	",Mostly sunny,Tanger
+11/11,23°,/16°,"
+
+		0%
+	",Mostly sunny,Tanger
+11/12,23°,/15°,"
+
+		0%
+	",Plenty of sun,Tanger
+11/13,20°,/11°,"
+
+		25%
+	",Intervals of clouds and sunshine,Tanger
+11/14,18°,/11°,"
+
+		10%
+	",Mostly sunny,Tanger
+11/15,18°,/11°,"
+
+		5%
+	",Plenty of sunshine,Tanger
+11/16,20°,/12°,"
+
+		20%
+	",Partly sunny,Tanger
+11/17,19°,/13°,"
+
+		61%
+	",Times of clouds and sun with a couple of showers and a thunderstorm in the afternoon,Tanger
+11/18,18°,/12°,"
+
+		57%
+	",Times of clouds and sun with a passing shower in the afternoon,Tanger
+11/19,18°,/14°,"
+
+		25%
+	",Mostly cloudy,Tanger
+11/20,19°,/13°,"
+
+		25%
+	",A blend of sun and clouds,Tanger
+11/21,20°,/14°,"
+
+		59%
+	",Partly sunny with a passing shower in the afternoon,Tanger
+11/22,18°,/12°,"
+
+		56%
+	","A passing shower in the morning; otherwise, intervals of clouds and sunshine",Tanger
+11/23,17°,/11°,"
+
+		25%
+	",Mainly cloudy,Tanger
+11/24,17°,/14°,"
+
+		20%
+	",Partly sunny,Tanger
+11/25,19°,/13°,"
+
+		57%
+	",Cloudy; a little rain in the morning followed by a shower in spots in the afternoon,Tanger
+11/26,18°,/12°,"
+
+		39%
+	",Cloudy and windy with a thunderstorm in spots,Tanger
+11/27,18°,/12°,"
+
+		57%
+	","A little morning rain; otherwise, mostly cloudy",Tanger
+11/28,17°,/13°,"
+
+		25%
+	",Cloudy,Tanger
+11/29,19°,/14°,"
+
+		40%
+	",Cloudy with a thunderstorm in the area,Tanger
+11/30,19°,/13°,"
+
+		40%
+	",Remaining cloudy and windy with a thunderstorm in the area,Tanger
+12/1,17°,/13°,"
+
+		40%
+	","A thunderstorm in spots in the morning; otherwise, mostly cloudy and windy",Tanger
+12/2,17°,/10°,"
+
+		56%
+	",Considerable cloudiness; a little morning rain followed by a shower in spots in the afternoon,Tanger
+12/3,16°,/9°,"
+
+		25%
+	",A thick cloud cover,Tanger
+12/4,16°,/12°,"
+
+		40%
+	",Cloudy with a thunderstorm in the area,Tanger
+12/5,17°,/10°,"
+
+		40%
+	","A thunderstorm in spots in the morning; otherwise, windy with times of clouds and sun",Tanger
+12/6,16°,/9°,"
+
+		40%
+	","A thunderstorm in spots in the morning; otherwise, partly sunny",Tanger
+12/7,16°,/9°,"
+
+		5%
+	",Plenty of sunshine,Tanger
+12/8,16°,/10°,"
+
+		5%
+	",Plenty of sunshine,Tanger
+12/9,16°,/9°,"
+
+		25%
+	",Clouds and sun,Tanger
+12/10,16°,/11°,"
+
+		40%
+	",Cloudy and windy with a thunderstorm in the area,Tanger
+12/11,16°,/9°,"
+
+		40%
+	",Considerable clouds with a thunderstorm in the area,Tanger
+12/12,15°,/10°,"
+
+		40%
+	",Periods of clouds and sunshine with a thunderstorm in spots in the afternoon,Tanger
+12/13,18°,/10°,"
+
+		4%
+	",Sunshine and a few clouds,Tanger
+12/14,16°,/11°,"
+
+		39%
+	",Mostly cloudy with a thunderstorm in spots,Tanger
+10/31,22°,/15°,"
+
+		71%
+	",Rather cloudy with occasional rain and drizzle this afternoon,Tetouan
+11/1,22°,/15°,"
+
+		14%
+	",Nice with intervals of clouds and sunshine,Tetouan
+11/2,21°,/18°,"
+
+		45%
+	",Intervals of clouds and sunshine with a shower in places in the afternoon,Tetouan
+11/3,21°,/16°,"
+
+		68%
+	",A thick cloud cover with a couple of showers in the afternoon,Tetouan
+11/4,22°,/16°,"
+
+		1%
+	",Partly sunny and nice,Tetouan
+11/5,22°,/16°,"
+
+		1%
+	",Partly sunny and nice,Tetouan
+11/6,22°,/17°,"
+
+		57%
+	",Times of clouds and sun with a passing shower or two,Tetouan
+11/7,21°,/18°,"
+
+		75%
+	","Cloudy in the morning, then intervals of clouds and sunshine in the afternoon with a couple of showers",Tetouan
+11/8,22°,/19°,"
+
+		49%
+	",Periods of sun with a shower in the area,Tetouan
+11/9,22°,/18°,"
+
+		0%
+	",Clouds followed by a brightening sky,Tetouan
+11/10,21°,/17°,"
+
+		55%
+	",Mostly cloudy with a bit of rain in the afternoon,Tetouan
+11/11,21°,/15°,"
+
+		0%
+	",Mostly sunny,Tetouan
+11/12,22°,/15°,"
+
+		0%
+	",Abundant sunshine,Tetouan
+11/13,19°,/11°,"
+
+		25%
+	",Clouds and intervals of sunshine,Tetouan
+11/14,18°,/11°,"
+
+		20%
+	",Mostly sunny,Tetouan
+11/15,18°,/11°,"
+
+		5%
+	",Plenty of sunshine,Tetouan
+11/16,19°,/11°,"
+
+		10%
+	",Mostly sunny,Tetouan
+11/17,19°,/12°,"
+
+		59%
+	",Times of clouds and sun with a passing shower in the afternoon,Tetouan
+11/18,18°,/11°,"
+
+		59%
+	","A passing shower in the morning; otherwise, clouds and sunshine",Tetouan
+11/19,18°,/13°,"
+
+		40%
+	",Mostly cloudy with a thundershower in spots,Tetouan
+11/20,18°,/13°,"
+
+		25%
+	",Clouds giving way to some sun,Tetouan
+11/21,19°,/13°,"
+
+		25%
+	",Partly sunny,Tetouan
+11/22,18°,/10°,"
+
+		60%
+	","A shower in the morning; otherwise, periods of clouds and sunshine",Tetouan
+11/23,17°,/10°,"
+
+		25%
+	",Cloudy most of the time,Tetouan
+11/24,17°,/12°,"
+
+		5%
+	",Abundant sunshine,Tetouan
+11/25,18°,/13°,"
+
+		60%
+	",Periods of rain,Tetouan
+11/26,17°,/12°,"
+
+		65%
+	",Cloudy with showers and thunderstorms,Tetouan
+11/27,17°,/11°,"
+
+		60%
+	","A little rain in the morning; otherwise, cloudy",Tetouan
+11/28,17°,/12°,"
+
+		25%
+	",Cloudy,Tetouan
+11/29,18°,/13°,"
+
+		70%
+	","Cloudy; a couple of showers in the morning, then afternoon showers and thunderstorms",Tetouan
+11/30,17°,/13°,"
+
+		65%
+	",Cloudy with showers and thunderstorms,Tetouan
+12/1,17°,/12°,"
+
+		57%
+	",Cloudy with a couple of showers and a thunderstorm,Tetouan
+12/2,16°,/9°,"
+
+		59%
+	",Rain at times,Tetouan
+12/3,16°,/9°,"
+
+		25%
+	",A thick cloud cover,Tetouan
+12/4,16°,/12°,"
+
+		60%
+	",Periods of rain,Tetouan
+12/5,17°,/10°,"
+
+		75%
+	",Rain ending in the morning; remaining cloudy,Tetouan
+12/6,16°,/9°,"
+
+		65%
+	","A couple of morning showers and a thunderstorm; otherwise, variable cloudiness",Tetouan
+12/7,15°,/8°,"
+
+		5%
+	",Sunshine,Tetouan
+12/8,15°,/9°,"
+
+		20%
+	",Plenty of sunshine,Tetouan
+12/9,16°,/9°,"
+
+		25%
+	",Clouds and sun,Tetouan
+12/10,15°,/10°,"
+
+		59%
+	",Periods of rain,Tetouan
+12/11,15°,/9°,"
+
+		63%
+	","A couple of morning showers and a thunderstorm; otherwise, cloudy",Tetouan
+12/12,15°,/10°,"
+
+		65%
+	","A couple of morning showers and a thunderstorm; otherwise, intervals of clouds and sunshine",Tetouan
+12/13,18°,/10°,"
+
+		4%
+	",Sunshine and a few clouds,Tetouan
+12/14,16°,/12°,"
+
+		65%
+	",Mostly cloudy with showers and thunderstorms,Tetouan
